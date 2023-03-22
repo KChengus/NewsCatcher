@@ -11,9 +11,9 @@ NewsCatcher API KEY
 ´´´
 git clone https://github.com/KChengus/NewsCatcher.git
 cd NewsCatcher
-´´´
-Create virtual environment
 ```
+Create virtual environment
+´´´
 source /path/to/virtualenv/bin/activate
 pip3 install -r requirements.txt
 ``´
