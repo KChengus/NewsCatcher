@@ -17,7 +17,7 @@ Create virtual environment
 source /path/to/virtualenv/bin/activate
 pip3 install -r requirements.txt
 ```
-Create .env file and write:
+Create .env file and write:/n
 DISCORD_TOKEN="*insert_your_discord_token*"
 NEWS_API_TOKEN="*insert_your_newscatcher_token*"
 
